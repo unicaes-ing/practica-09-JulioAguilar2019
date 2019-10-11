@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Practica9\Practica9\bin\Debug\Practica9.exe.config
+C:\Users\Usuario\source\repos\Practica9\Practica9\bin\Debug\Practica9.exe
+C:\Users\Usuario\source\repos\Practica9\Practica9\bin\Debug\Practica9.pdb
+C:\Users\Usuario\source\repos\Practica9\Practica9\obj\Debug\Practica9.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Practica9\Practica9\obj\Debug\Practica9.exe
+C:\Users\Usuario\source\repos\Practica9\Practica9\obj\Debug\Practica9.pdb
